@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JNGC K Game Demo Day Invitation</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      margin: 20px auto;
+      background: #ffffff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border: 0;
+    }
+    a {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Top of invitation -->
+    <img src="https://i.imgur.com/fAdl9N2.png" 
+         alt="JNGC K GAME DEMO DAY">
+
+    <!-- Clickable button slice -->
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdofegE_BxuKOv4jrBVFuNpsaLu9R-GqyjZG0DJwGB1juIslw/viewform?usp=header" target="_blank">
+      <img src="https://i.imgur.com/3Gd3zKX.png" 
+           alt="Registration">
+    </a>
+
+    <!-- Bottom of invitation -->
+    <img src="https://i.imgur.com/wE5FMEr.png" 
+         alt="">
+  </div>
+</body>
+</html>
